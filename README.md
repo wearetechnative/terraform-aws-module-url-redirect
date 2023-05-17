@@ -15,7 +15,7 @@ Below an example how to use this module ...
 
 ```hcl
 module "redirect_technative_nl" {
-  source = "wearetechnative/terraform-aws-module-url-redirect/aws
+  source = "wearetechnative/terraform-aws-module-url-redirect/aws"
 
   route53_zone_name   = "technative.nl."
   domain              = "technative.nl"
