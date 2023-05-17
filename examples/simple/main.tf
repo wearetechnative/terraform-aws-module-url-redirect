@@ -1,5 +1,5 @@
 module "redirect_technative_nl" {
-  source = "wearetechnative/terraform-aws-module-url-redirect/aws"
+  source = "wearetechnative/module-url-redirect/aws"
 
   domain               = "technative.nl"
   route53_zone_name    = "technative.nl."
