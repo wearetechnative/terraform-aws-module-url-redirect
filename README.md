@@ -1,4 +1,4 @@
-# Terraform AWS URL Redirect ![](https://img.shields.io/github/actions/workflow/status/wearetechnative/terraform-aws-module-url-redirect/tflint.yaml)
+# Terraform AWS URL Redirect ![](https://img.shields.io/github/actions/workflow/status/wearetechnative/terraform-aws-module-url-redirect/lint.yaml?branch=main&style=plastic&label=lint) ![](https://img.shields.io/github/actions/workflow/status/wearetechnative/terraform-aws-module-url-redirect/security-scan.yaml?branch=main&style=plastic&label=security)
 
 <!-- SHIELDS -->
 
